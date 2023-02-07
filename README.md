@@ -1,4 +1,4 @@
-# Sandbox-Music-Player-Project-P4
+# Sandbox Music Player Project P4
 Lesson Notes
 
 ---
