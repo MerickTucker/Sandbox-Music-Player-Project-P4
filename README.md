@@ -1,10 +1,10 @@
 # Sandbox-Music-Player-Project-P4
-uh huh
+Lesson Notes
 
 ---
 
 # To Do List
 
-[] Demo the list making tool
-
-[a] i like this item, it is checked off
+- [] Demo the list making tool
+- [x] i like this item, it is checked off
+- <del> [x] This item is so old school. </del>
